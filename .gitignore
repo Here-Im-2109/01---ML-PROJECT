@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+01_ml_project/
 
 # Spyder project settings
 .spyderproject
